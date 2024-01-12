@@ -163,20 +163,20 @@ C_Users_elife_Documents_GarminApp_SimpleWatchFace_SimpleWatchFace_source_SimpleW
         %tmp.64 = getv function %tmp.63 :setText;
         %tmp.66 = lgetv %timeString.4;
         invoke %tmp.63 %tmp.64(%tmp.66);
-[ "C:\Users\elife\Documents\GarminApp\SimpleWatchFace\SimpleWatchFace\source\SimpleWatchFaceView.mc" 48 8 ]
+[ "C:\Users\elife\Documents\GarminApp\SimpleWatchFace\SimpleWatchFace\source\SimpleWatchFaceView.mc" 49 8 ]
         %tmp.68 = getv ? :View;
         %tmp.69 = getv function %tmp.68 :onUpdate;
         %tmp.71 = lgetv %dc;
         invoke %tmp.68 %tmp.69(%tmp.71);
 C_Users_elife_Documents_GarminApp_SimpleWatchFace_SimpleWatchFace_source_SimpleWatchFaceView_mc_25_40_stop:
     }
-    [ @file = "C:\Users\elife\Documents\GarminApp\SimpleWatchFace\SimpleWatchFace\source\SimpleWatchFaceView.mc"; @line = 54; ]
+    [ @file = "C:\Users\elife\Documents\GarminApp\SimpleWatchFace\SimpleWatchFace\source\SimpleWatchFaceView.mc"; @line = 55; ]
     function onHide() as Void {
     }
-    [ @file = "C:\Users\elife\Documents\GarminApp\SimpleWatchFace\SimpleWatchFace\source\SimpleWatchFaceView.mc"; @line = 58; ]
+    [ @file = "C:\Users\elife\Documents\GarminApp\SimpleWatchFace\SimpleWatchFace\source\SimpleWatchFaceView.mc"; @line = 59; ]
     function onExitSleep() as Void {
     }
-    [ @file = "C:\Users\elife\Documents\GarminApp\SimpleWatchFace\SimpleWatchFace\source\SimpleWatchFaceView.mc"; @line = 62; ]
+    [ @file = "C:\Users\elife\Documents\GarminApp\SimpleWatchFace\SimpleWatchFace\source\SimpleWatchFaceView.mc"; @line = 63; ]
     function onEnterSleep() as Void {
     }
 }

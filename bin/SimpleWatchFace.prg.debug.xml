@@ -30,7 +30,7 @@
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="43" parent="globals/SimpleWatchFaceView" pc="268435903" symbol="onUpdate"/>
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="44" parent="globals/SimpleWatchFaceView" pc="268435931" symbol="onUpdate"/>
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="45" parent="globals/SimpleWatchFaceView" pc="268435968" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="48" parent="globals/SimpleWatchFaceView" pc="268435982" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="49" parent="globals/SimpleWatchFaceView" pc="268435982" symbol="onUpdate"/>
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="13" lineNum="7" parent="globals/Rez" pc="268436007" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="14" lineNum="5" parent="globals/SimpleWatchFaceApp" pc="268436031" symbol="&lt;init&gt;"/>
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="15" lineNum="12" parent="globals/SimpleWatchFaceApp" pc="268436050" symbol="onStart"/>
@@ -45,14 +45,20 @@
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="20" parent="globals/Rez/Layouts" pc="268436151" symbol="WatchFace"/>
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="22" parent="globals/Rez/Layouts" pc="268436179" symbol="WatchFace"/>
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="24" parent="globals/Rez/Layouts" pc="268436314" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="26" parent="globals/Rez/Layouts" pc="268436439" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="28" parent="globals/Rez/Layouts" pc="268436564" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="30" parent="globals/Rez/Layouts" pc="268436689" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="32" parent="globals/Rez/Layouts" pc="268436814" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="8389346" symbol="text"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
 <entry id="7" module="true" symbol="globals/Rez/Menus"/>
+<entry field="true" id="19" symbol="ColorGreen"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-<entry field="true" id="20" symbol="ColorRed"/>
-<entry field="true" id="23" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="21" symbol="ColorRed"/>
+<entry field="true" id="24" symbol="MilitaryFormatTitle"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="9" object="true" symbol="SimpleWatchFaceApp"/>
 <entry field="true" id="17" symbol="ColorBlue"/>
@@ -75,7 +81,7 @@
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="21" symbol="ColorWhite"/>
+<entry field="true" id="22" symbol="ColorWhite"/>
 <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
 <entry field="true" id="16" symbol="ColorBlack"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
@@ -95,11 +101,11 @@
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="10" object="true" symbol="SimpleWatchFaceView"/>
-<entry field="true" id="19" symbol="ColorLightGray"/>
+<entry field="true" id="20" symbol="ColorLightGray"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389347" symbol="color"/>
-<entry field="true" id="22" symbol="ForegroundColorTitle"/>
+<entry field="true" id="23" symbol="ForegroundColorTitle"/>
 <entry id="11" module="true" symbol="Layouts"/>
 <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
@@ -115,11 +121,16 @@
 <entry endPc="268436005" name="hours" stackId="4" startPc="268435696"/>
 <entry endPc="268436005" name="timeString" stackId="5" startPc="268435696"/>
 <entry endPc="268436005" name="view" stackId="6" startPc="268435696"/>
-<entry arg="true" endPc="268436340" name="dc" stackId="1" startPc="268436139"/>
-<entry endPc="268436340" name="rez_cmp_local_custom_drawable_18560539918421959114" stackId="2" startPc="268436151"/>
-<entry endPc="268436340" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436151"/>
+<entry arg="true" endPc="268436880" name="dc" stackId="1" startPc="268436139"/>
+<entry endPc="268436880" name="rez_cmp_local_custom_drawable_10183245453695056551" stackId="2" startPc="268436151"/>
+<entry endPc="268436880" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436151"/>
+<entry endPc="268436880" name="rez_cmp_local_text_DateLabel" stackId="4" startPc="268436151"/>
+<entry endPc="268436880" name="rez_cmp_local_text_StepsLabel" stackId="5" startPc="268436151"/>
+<entry endPc="268436880" name="rez_cmp_local_text_SleepLabel" stackId="6" startPc="268436151"/>
+<entry endPc="268436880" name="rez_cmp_local_text_HeartRateLabel" stackId="7" startPc="268436151"/>
 </localVars>
 <annotations>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorGreen"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
@@ -143,7 +154,7 @@
 <dataEntry label="globals/Rez/Menus" offset="552" parentId="Rez" symbolId="Menus" type="module"/>
 <dataEntry label="globals/Rez/Fonts" offset="583" parentId="Rez" symbolId="Fonts" type="module"/>
 <dataEntry label="globals/Rez/Strings" offset="614" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="725" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="733" parentId="Rez" symbolId="JsonData" type="module"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
@@ -226,7 +237,7 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436340" name="WatchFace" parent="Layouts" startPc="268436139">
+<functionEntry accessMode="public" endPc="268436880" name="WatchFace" parent="Layouts" startPc="268436139">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
