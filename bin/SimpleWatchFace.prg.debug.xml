@@ -11,58 +11,95 @@
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceBackground.mc" id="4" lineNum="16" parent="globals/Background" pc="268435551" symbol="draw"/>
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceBackground.mc" id="4" lineNum="18" parent="globals/Background" pc="268435553" symbol="draw"/>
 <entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceBackground.mc" id="4" lineNum="19" parent="globals/Background" pc="268435595" symbol="draw"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="5" lineNum="7" parent="globals/SimpleWatchFaceView" pc="268435608" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="8" lineNum="14" parent="globals/SimpleWatchFaceView" pc="268435627" symbol="onLayout"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="8" lineNum="15" parent="globals/SimpleWatchFaceView" pc="268435629" symbol="onLayout"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="10" lineNum="9" parent="globals/SimpleWatchFaceView" pc="268435671" symbol="initialize"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="10" lineNum="10" parent="globals/SimpleWatchFaceView" pc="268435673" symbol="initialize"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="25" parent="globals/SimpleWatchFaceView" pc="268435692" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="27" parent="globals/SimpleWatchFaceView" pc="268435696" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="28" parent="globals/SimpleWatchFaceView" pc="268435703" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="29" parent="globals/SimpleWatchFaceView" pc="268435720" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="30" parent="globals/SimpleWatchFaceView" pc="268435730" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="31" parent="globals/SimpleWatchFaceView" pc="268435755" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="32" parent="globals/SimpleWatchFaceView" pc="268435766" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="35" parent="globals/SimpleWatchFaceView" pc="268435782" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="36" parent="globals/SimpleWatchFaceView" pc="268435810" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="37" parent="globals/SimpleWatchFaceView" pc="268435817" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="40" parent="globals/SimpleWatchFaceView" pc="268435838" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="43" parent="globals/SimpleWatchFaceView" pc="268435903" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="44" parent="globals/SimpleWatchFaceView" pc="268435931" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="45" parent="globals/SimpleWatchFaceView" pc="268435968" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="49" parent="globals/SimpleWatchFaceView" pc="268435982" symbol="onUpdate"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="13" lineNum="7" parent="globals/Rez" pc="268436007" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="14" lineNum="5" parent="globals/SimpleWatchFaceApp" pc="268436031" symbol="&lt;init&gt;"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="15" lineNum="12" parent="globals/SimpleWatchFaceApp" pc="268436050" symbol="onStart"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="16" lineNum="25" parent="globals/SimpleWatchFaceApp" pc="268436053" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="16" lineNum="26" parent="globals/SimpleWatchFaceApp" pc="268436055" symbol="onSettingsChanged"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="17" lineNum="20" parent="globals/SimpleWatchFaceApp" pc="268436072" symbol="getInitialView"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="17" lineNum="21" parent="globals/SimpleWatchFaceApp" pc="268436074" symbol="getInitialView"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="18" lineNum="7" parent="globals/SimpleWatchFaceApp" pc="268436115" symbol="initialize"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="18" lineNum="8" parent="globals/SimpleWatchFaceApp" pc="268436117" symbol="initialize"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="19" lineNum="16" parent="globals/SimpleWatchFaceApp" pc="268436136" symbol="onStop"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="19" parent="globals/Rez/Layouts" pc="268436139" symbol="WatchFace"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="20" parent="globals/Rez/Layouts" pc="268436151" symbol="WatchFace"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="22" parent="globals/Rez/Layouts" pc="268436179" symbol="WatchFace"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="24" parent="globals/Rez/Layouts" pc="268436314" symbol="WatchFace"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="26" parent="globals/Rez/Layouts" pc="268436439" symbol="WatchFace"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="28" parent="globals/Rez/Layouts" pc="268436564" symbol="WatchFace"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="30" parent="globals/Rez/Layouts" pc="268436689" symbol="WatchFace"/>
-<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="20" lineNum="32" parent="globals/Rez/Layouts" pc="268436814" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="5" lineNum="9" parent="globals/SimpleWatchFaceView" pc="268435608" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="56" parent="globals/SimpleWatchFaceView" pc="268435627" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="57" parent="globals/SimpleWatchFaceView" pc="268435631" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="58" parent="globals/SimpleWatchFaceView" pc="268435638" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="59" parent="globals/SimpleWatchFaceView" pc="268435655" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="60" parent="globals/SimpleWatchFaceView" pc="268435665" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="61" parent="globals/SimpleWatchFaceView" pc="268435690" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="62" parent="globals/SimpleWatchFaceView" pc="268435701" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="64" parent="globals/SimpleWatchFaceView" pc="268435714" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="66" parent="globals/SimpleWatchFaceView" pc="268435735" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="67" parent="globals/SimpleWatchFaceView" pc="268435763" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="68" parent="globals/SimpleWatchFaceView" pc="268435770" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="71" parent="globals/SimpleWatchFaceView" pc="268435791" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="74" parent="globals/SimpleWatchFaceView" pc="268435856" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="75" parent="globals/SimpleWatchFaceView" pc="268435884" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="6" lineNum="76" parent="globals/SimpleWatchFaceView" pc="268435921" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="9" lineNum="92" parent="globals/SimpleWatchFaceView" pc="268435936" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="9" lineNum="93" parent="globals/SimpleWatchFaceView" pc="268435940" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="9" lineNum="96" parent="globals/SimpleWatchFaceView" pc="268435963" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="9" lineNum="98" parent="globals/SimpleWatchFaceView" pc="268435974" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="9" lineNum="99" parent="globals/SimpleWatchFaceView" pc="268435984" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="9" lineNum="100" parent="globals/SimpleWatchFaceView" pc="268436012" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="9" lineNum="103" parent="globals/SimpleWatchFaceView" pc="268436043" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="9" lineNum="104" parent="globals/SimpleWatchFaceView" pc="268436071" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="10" lineNum="16" parent="globals/SimpleWatchFaceView" pc="268436100" symbol="onLayout"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="10" lineNum="17" parent="globals/SimpleWatchFaceView" pc="268436102" symbol="onLayout"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="11" parent="globals/SimpleWatchFaceView" pc="268436144" symbol="initialize"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="12" lineNum="12" parent="globals/SimpleWatchFaceView" pc="268436146" symbol="initialize"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="14" lineNum="79" parent="globals/SimpleWatchFaceView" pc="268436165" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setHeartRateDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="14" lineNum="80" parent="globals/SimpleWatchFaceView" pc="268436169" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setHeartRateDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="14" lineNum="81" parent="globals/SimpleWatchFaceView" pc="268436189" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setHeartRateDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="14" lineNum="82" parent="globals/SimpleWatchFaceView" pc="268436208" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setHeartRateDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="14" lineNum="83" parent="globals/SimpleWatchFaceView" pc="268436236" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setHeartRateDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="27" parent="globals/SimpleWatchFaceView" pc="268436265" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="29" parent="globals/SimpleWatchFaceView" pc="268436269" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="30" parent="globals/SimpleWatchFaceView" pc="268436310" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="31" parent="globals/SimpleWatchFaceView" pc="268436351" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="33" parent="globals/SimpleWatchFaceView" pc="268436392" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="34" parent="globals/SimpleWatchFaceView" pc="268436404" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="35" parent="globals/SimpleWatchFaceView" pc="268436416" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="36" parent="globals/SimpleWatchFaceView" pc="268436428" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="38" parent="globals/SimpleWatchFaceView" pc="268436440" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="39" parent="globals/SimpleWatchFaceView" pc="268436447" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="42" parent="globals/SimpleWatchFaceView" pc="268436454" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="43" parent="globals/SimpleWatchFaceView" pc="268436478" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="44" parent="globals/SimpleWatchFaceView" pc="268436502" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="15" lineNum="47" parent="globals/SimpleWatchFaceView" pc="268436526" symbol="onUpdate"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="16" lineNum="86" parent="globals/SimpleWatchFaceView" pc="268436551" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setBatteryDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="16" lineNum="87" parent="globals/SimpleWatchFaceView" pc="268436555" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setBatteryDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="16" lineNum="88" parent="globals/SimpleWatchFaceView" pc="268436578" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setBatteryDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceView.mc" id="16" lineNum="89" parent="globals/SimpleWatchFaceView" pc="268436606" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setBatteryDisplay&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="17" lineNum="7" parent="globals/Rez" pc="268436635" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="18" lineNum="5" parent="globals/SimpleWatchFaceApp" pc="268436659" symbol="&lt;init&gt;"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="19" lineNum="12" parent="globals/SimpleWatchFaceApp" pc="268436678" symbol="onStart"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="20" lineNum="25" parent="globals/SimpleWatchFaceApp" pc="268436681" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="20" lineNum="26" parent="globals/SimpleWatchFaceApp" pc="268436683" symbol="onSettingsChanged"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="21" lineNum="20" parent="globals/SimpleWatchFaceApp" pc="268436700" symbol="getInitialView"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="21" lineNum="21" parent="globals/SimpleWatchFaceApp" pc="268436702" symbol="getInitialView"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="22" lineNum="7" parent="globals/SimpleWatchFaceApp" pc="268436743" symbol="initialize"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="22" lineNum="8" parent="globals/SimpleWatchFaceApp" pc="268436745" symbol="initialize"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\source\\SimpleWatchFaceApp.mc" id="23" lineNum="16" parent="globals/SimpleWatchFaceApp" pc="268436764" symbol="onStop"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="24" lineNum="22" parent="globals/Rez/Layouts" pc="268436767" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="24" lineNum="23" parent="globals/Rez/Layouts" pc="268436779" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="24" lineNum="25" parent="globals/Rez/Layouts" pc="268436807" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="24" lineNum="27" parent="globals/Rez/Layouts" pc="268436919" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="24" lineNum="29" parent="globals/Rez/Layouts" pc="268437044" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="24" lineNum="31" parent="globals/Rez/Layouts" pc="268437169" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="24" lineNum="33" parent="globals/Rez/Layouts" pc="268437294" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="24" lineNum="35" parent="globals/Rez/Layouts" pc="268437419" symbol="WatchFace"/>
+<entry filename="C:\\Users\\elife\\Documents\\GarminApp\\SimpleWatchFace\\SimpleWatchFace\\bin\\gen\\006-B4260-00\\source\\Rez.mcgen" id="24" lineNum="37" parent="globals/Rez/Layouts" pc="268437544" symbol="WatchFace"/>
 </pcToLineNum>
 <symbolTable>
 <entry id="8388639" module="true" symbol="Graphics"/>
+<entry id="14" method="true" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;"/>
 <entry id="8389346" symbol="text"/>
 <entry id="8388632" method="true" symbol="&lt;init&gt;"/>
 <entry id="7" module="true" symbol="globals/Rez/Menus"/>
-<entry field="true" id="19" symbol="ColorGreen"/>
+<entry field="true" id="20" symbol="Steps"/>
+<entry field="true" id="26" symbol="ColorGreen"/>
 <entry id="8389683" method="true" symbol="onSettingsChanged"/>
-<entry field="true" id="21" symbol="ColorRed"/>
-<entry field="true" id="24" symbol="MilitaryFormatTitle"/>
+<entry field="true" id="28" symbol="ColorRed"/>
+<entry field="true" id="17" symbol="Heart"/>
+<entry field="true" id="31" symbol="MilitaryFormatTitle"/>
 <entry field="true" id="8388611" module="true" symbol="Toybox"/>
 <entry id="9" object="true" symbol="SimpleWatchFaceApp"/>
-<entry field="true" id="17" symbol="ColorBlue"/>
-<entry field="true" id="14" symbol="AppName"/>
+<entry field="true" id="24" symbol="ColorBlue"/>
+<entry id="13" method="true" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;"/>
+<entry field="true" id="21" symbol="AppName"/>
+<entry id="8388633" module="true" symbol="ActivityMonitor"/>
 <entry id="8" module="true" symbol="globals/Rez/Strings"/>
 <entry id="8388772" module="true" object="true" symbol="Fonts"/>
 <entry id="8388648" module="true" symbol="WatchUi"/>
@@ -73,40 +110,44 @@
 <entry field="true" id="8389064" symbol="locX"/>
 <entry id="8388771" module="true" object="true" symbol="Drawables"/>
 <entry id="8389348" symbol="font"/>
-<entry id="12" module="true" symbol="Menus"/>
+<entry id="16" module="true" symbol="Menus"/>
 <entry id="8389275" method="true" symbol="getApp"/>
-<entry field="true" id="18" symbol="ColorDarkGray"/>
+<entry field="true" id="25" symbol="ColorDarkGray"/>
 <entry id="6" module="true" symbol="globals/Rez/Layouts"/>
 <entry id="8389122" method="true" symbol="onLayout"/>
+<entry id="12" method="true" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setHeartRateDisplay&gt;"/>
 <entry id="8389376" method="true" symbol="onEnterSleep"/>
 <entry field="true" id="8389063" symbol="identifier"/>
 <entry id="8389349" symbol="justification"/>
-<entry field="true" id="22" symbol="ColorWhite"/>
+<entry field="true" id="29" symbol="ColorWhite"/>
 <entry id="5" module="true" symbol="globals/Rez/JsonData"/>
-<entry field="true" id="16" symbol="ColorBlack"/>
+<entry field="true" id="23" symbol="ColorBlack"/>
 <entry id="3" module="true" symbol="globals/Rez/Drawables"/>
+<entry id="11" method="true" symbol="&lt;globals/SimpleWatchFaceView/&lt;&gt;setBatteryDisplay&gt;"/>
 <entry id="8389377" method="true" symbol="onExitSleep"/>
 <entry id="8388644" module="true" symbol="System"/>
 <entry id="8388769" module="true" object="true" symbol="Rez"/>
 <entry id="8388640" module="true" symbol="Lang"/>
 <entry id="8390088" module="true" object="true" symbol="JsonData"/>
 <entry id="8389068" method="true" symbol="draw"/>
-<entry field="true" id="13" symbol="LauncherIcon"/>
+<entry field="true" id="18" symbol="LauncherIcon"/>
 <entry id="8388610" symbol="statics"/>
 <entry id="8389123" method="true" symbol="onShow"/>
 <entry id="8389350" module="true" symbol="globals"/>
-<entry field="true" id="15" symbol="BackgroundColorTitle"/>
+<entry field="true" id="22" symbol="BackgroundColorTitle"/>
 <entry id="8388770" module="true" object="true" symbol="Strings"/>
 <entry id="8390146" module="true" object="true" symbol="Background"/>
 <entry id="8388702" method="true" symbol="initialize"/>
 <entry id="8389279" method="true" symbol="onStart"/>
 <entry id="10" object="true" symbol="SimpleWatchFaceView"/>
-<entry field="true" id="20" symbol="ColorLightGray"/>
+<entry field="true" id="27" symbol="ColorLightGray"/>
 <entry id="8389280" method="true" symbol="getInitialView"/>
 <entry id="8389281" method="true" symbol="onStop"/>
 <entry id="8389347" symbol="color"/>
-<entry field="true" id="23" symbol="ForegroundColorTitle"/>
-<entry id="11" module="true" symbol="Layouts"/>
+<entry id="8389781" module="true" symbol="SensorHistory"/>
+<entry field="true" id="30" symbol="ForegroundColorTitle"/>
+<entry id="15" module="true" symbol="Layouts"/>
+<entry field="true" id="19" symbol="Sleep"/>
 <entry id="4" module="true" symbol="globals/Rez/Fonts"/>
 <entry id="8389125" method="true" symbol="onHide"/>
 <entry id="8388635" module="true" symbol="Application"/>
@@ -114,47 +155,64 @@
 <localVars>
 <entry endPc="268435549" name="dictionary" stackId="1" startPc="268435509"/>
 <entry arg="true" endPc="268435607" name="dc" stackId="1" startPc="268435551"/>
-<entry arg="true" endPc="268435670" name="dc" stackId="1" startPc="268435627"/>
-<entry arg="true" endPc="268436006" name="dc" stackId="1" startPc="268435692"/>
-<entry endPc="268436005" name="timeFormat" stackId="2" startPc="268435696"/>
-<entry endPc="268436005" name="clockTime" stackId="3" startPc="268435696"/>
-<entry endPc="268436005" name="hours" stackId="4" startPc="268435696"/>
-<entry endPc="268436005" name="timeString" stackId="5" startPc="268435696"/>
-<entry endPc="268436005" name="view" stackId="6" startPc="268435696"/>
-<entry arg="true" endPc="268436880" name="dc" stackId="1" startPc="268436139"/>
-<entry endPc="268436880" name="rez_cmp_local_custom_drawable_10183245453695056551" stackId="2" startPc="268436151"/>
-<entry endPc="268436880" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436151"/>
-<entry endPc="268436880" name="rez_cmp_local_text_DateLabel" stackId="4" startPc="268436151"/>
-<entry endPc="268436880" name="rez_cmp_local_text_StepsLabel" stackId="5" startPc="268436151"/>
-<entry endPc="268436880" name="rez_cmp_local_text_SleepLabel" stackId="6" startPc="268436151"/>
-<entry endPc="268436880" name="rez_cmp_local_text_HeartRateLabel" stackId="7" startPc="268436151"/>
+<entry endPc="268435934" name="timeFormat" stackId="1" startPc="268435631"/>
+<entry endPc="268435934" name="clockTime" stackId="2" startPc="268435631"/>
+<entry endPc="268435934" name="hours" stackId="3" startPc="268435631"/>
+<entry endPc="268435934" name="timeString" stackId="4" startPc="268435631"/>
+<entry endPc="268435934" name="view" stackId="5" startPc="268435631"/>
+<entry endPc="268436098" name="stepCount" stackId="1" startPc="268435940"/>
+<entry endPc="268436039" name="view" stackId="2" startPc="268435974"/>
+<entry endPc="268436098" name="view" stackId="3" startPc="268436043"/>
+<entry arg="true" endPc="268436143" name="dc" stackId="1" startPc="268436100"/>
+<entry endPc="268436263" name="heartrateIterator" stackId="1" startPc="268436169"/>
+<entry endPc="268436263" name="heartRate" stackId="2" startPc="268436169"/>
+<entry endPc="268436263" name="view" stackId="3" startPc="268436169"/>
+<entry arg="true" endPc="268436550" name="dc" stackId="1" startPc="268436265"/>
+<entry endPc="268436549" name="heartImg" stackId="2" startPc="268436269"/>
+<entry endPc="268436549" name="stepImg" stackId="3" startPc="268436269"/>
+<entry endPc="268436549" name="sleepImg" stackId="4" startPc="268436269"/>
+<entry endPc="268436549" name="yPos" stackId="5" startPc="268436269"/>
+<entry endPc="268436549" name="xPos" stackId="6" startPc="268436269"/>
+<entry endPc="268436633" name="batteryLevel" stackId="1" startPc="268436555"/>
+<entry endPc="268436633" name="view" stackId="2" startPc="268436555"/>
+<entry arg="true" endPc="268437620" name="dc" stackId="1" startPc="268436767"/>
+<entry endPc="268437620" name="rez_cmp_local_custom_drawable_20918016226955049431" stackId="2" startPc="268436779"/>
+<entry endPc="268437620" name="rez_cmp_local_text_TimeLabel" stackId="3" startPc="268436779"/>
+<entry endPc="268437620" name="rez_cmp_local_text_DateLabel" stackId="4" startPc="268436779"/>
+<entry endPc="268437620" name="rez_cmp_local_text_HeartRateLabel" stackId="5" startPc="268436779"/>
+<entry endPc="268437620" name="rez_cmp_local_text_BatteryLabel" stackId="6" startPc="268436779"/>
+<entry endPc="268437620" name="rez_cmp_local_text_StepsLabel" stackId="7" startPc="268436779"/>
+<entry endPc="268437620" name="rez_cmp_local_text_SleepLabel" stackId="8" startPc="268436779"/>
 </localVars>
 <annotations>
-<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorGreen"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="MilitaryFormatTitle"/>
 <annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="LauncherIcon"/>
-<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
-<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
-<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Steps"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorWhite"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ForegroundColorTitle"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorLightGray"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="AppName"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlue"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Heart"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorGreen"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="BackgroundColorTitle"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorRed"/>
+<annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorDarkGray"/>
+<annotationEntry annotation="initialized" class="Drawables" module="globals/Rez" symbol="Sleep"/>
 <annotationEntry annotation="initialized" class="Strings" module="globals/Rez" symbol="ColorBlack"/>
 </annotations>
 <dataEntryOffsetMappings>
 <dataEntry label="globals" offset="87" parentId="" symbolId="globals" type="module"/>
 <dataEntry label="globals/Background" offset="166" parentId="globals" symbolId="Background" type="class"/>
 <dataEntry label="globals/SimpleWatchFaceView" offset="221" parentId="globals" symbolId="SimpleWatchFaceView" type="class"/>
-<dataEntry label="globals/Rez" offset="316" parentId="globals" symbolId="Rez" type="module"/>
-<dataEntry label="globals/SimpleWatchFaceApp" offset="395" parentId="globals" symbolId="SimpleWatchFaceApp" type="class"/>
-<dataEntry label="globals/Rez/Drawables" offset="474" parentId="Rez" symbolId="Drawables" type="module"/>
-<dataEntry label="globals/Rez/Layouts" offset="513" parentId="Rez" symbolId="Layouts" type="module"/>
-<dataEntry label="globals/Rez/Menus" offset="552" parentId="Rez" symbolId="Menus" type="module"/>
-<dataEntry label="globals/Rez/Fonts" offset="583" parentId="Rez" symbolId="Fonts" type="module"/>
-<dataEntry label="globals/Rez/Strings" offset="614" parentId="Rez" symbolId="Strings" type="module"/>
-<dataEntry label="globals/Rez/JsonData" offset="733" parentId="Rez" symbolId="JsonData" type="module"/>
+<dataEntry label="globals/Rez" offset="348" parentId="globals" symbolId="Rez" type="module"/>
+<dataEntry label="globals/SimpleWatchFaceApp" offset="427" parentId="globals" symbolId="SimpleWatchFaceApp" type="class"/>
+<dataEntry label="globals/Rez/Drawables" offset="506" parentId="Rez" symbolId="Drawables" type="module"/>
+<dataEntry label="globals/Rez/Layouts" offset="569" parentId="Rez" symbolId="Layouts" type="module"/>
+<dataEntry label="globals/Rez/Menus" offset="608" parentId="Rez" symbolId="Menus" type="module"/>
+<dataEntry label="globals/Rez/Fonts" offset="639" parentId="Rez" symbolId="Fonts" type="module"/>
+<dataEntry label="globals/Rez/Strings" offset="670" parentId="Rez" symbolId="Strings" type="module"/>
+<dataEntry label="globals/Rez/JsonData" offset="789" parentId="Rez" symbolId="JsonData" type="module"/>
 </dataEntryOffsetMappings>
 <functions>
 <functionEntry accessMode="public" endPc="268435485" name="getApp" startPc="268435460">
@@ -173,49 +231,61 @@
 <functionEntry accessMode="public" endPc="268435626" name="&lt;init&gt;" parent="SimpleWatchFaceView" startPc="268435608">
 <documentation/>
 </functionEntry>
+<functionEntry accessMode="private" endPc="268435935" name="&lt;globals/SimpleWatchFaceView/&lt;&gt;setTimeDisplay&gt;" parent="SimpleWatchFaceView" startPc="268435627">
+<documentation/>
+</functionEntry>
 <functionEntry accessMode="public" name="onExitSleep" parent="SimpleWatchFaceView">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onShow" parent="SimpleWatchFaceView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435670" name="onLayout" parent="SimpleWatchFaceView" startPc="268435627">
+<functionEntry accessMode="private" endPc="268436099" name="&lt;globals/SimpleWatchFaceView/&lt;&gt;setStepDisplay&gt;" parent="SimpleWatchFaceView" startPc="268435936">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436143" name="onLayout" parent="SimpleWatchFaceView" startPc="268436100">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onEnterSleep" parent="SimpleWatchFaceView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268435691" name="initialize" parent="SimpleWatchFaceView" startPc="268435671">
+<functionEntry accessMode="public" endPc="268436164" name="initialize" parent="SimpleWatchFaceView" startPc="268436144">
 <documentation/>
 </functionEntry>
 <functionEntry accessMode="public" name="onHide" parent="SimpleWatchFaceView">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436006" name="onUpdate" parent="SimpleWatchFaceView" startPc="268435692">
+<functionEntry accessMode="private" endPc="268436264" name="&lt;globals/SimpleWatchFaceView/&lt;&gt;setHeartRateDisplay&gt;" parent="SimpleWatchFaceView" startPc="268436165">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436550" name="onUpdate" parent="SimpleWatchFaceView" startPc="268436265">
 <param id="dc"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436030" name="&lt;init&gt;" parent="Rez" startPc="268436007">
+<functionEntry accessMode="private" endPc="268436634" name="&lt;globals/SimpleWatchFaceView/&lt;&gt;setBatteryDisplay&gt;" parent="SimpleWatchFaceView" startPc="268436551">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436049" name="&lt;init&gt;" parent="SimpleWatchFaceApp" startPc="268436031">
+<functionEntry accessMode="public" endPc="268436658" name="&lt;init&gt;" parent="Rez" startPc="268436635">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436052" name="onStart" parent="SimpleWatchFaceApp" startPc="268436050">
+<functionEntry accessMode="public" endPc="268436677" name="&lt;init&gt;" parent="SimpleWatchFaceApp" startPc="268436659">
+<documentation/>
+</functionEntry>
+<functionEntry accessMode="public" endPc="268436680" name="onStart" parent="SimpleWatchFaceApp" startPc="268436678">
 <param id="state"/>
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436071" name="onSettingsChanged" parent="SimpleWatchFaceApp" startPc="268436053">
+<functionEntry accessMode="public" endPc="268436699" name="onSettingsChanged" parent="SimpleWatchFaceApp" startPc="268436681">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436114" name="getInitialView" parent="SimpleWatchFaceApp" startPc="268436072">
+<functionEntry accessMode="public" endPc="268436742" name="getInitialView" parent="SimpleWatchFaceApp" startPc="268436700">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436135" name="initialize" parent="SimpleWatchFaceApp" startPc="268436115">
+<functionEntry accessMode="public" endPc="268436763" name="initialize" parent="SimpleWatchFaceApp" startPc="268436743">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436138" name="onStop" parent="SimpleWatchFaceApp" startPc="268436136">
+<functionEntry accessMode="public" endPc="268436766" name="onStop" parent="SimpleWatchFaceApp" startPc="268436764">
 <param id="state"/>
 <documentation/>
 </functionEntry>
@@ -237,7 +307,7 @@
 <functionEntry accessMode="public" name="&lt;init&gt;" parent="JsonData">
 <documentation/>
 </functionEntry>
-<functionEntry accessMode="public" endPc="268436880" name="WatchFace" parent="Layouts" startPc="268436139">
+<functionEntry accessMode="public" endPc="268437620" name="WatchFace" parent="Layouts" startPc="268436767">
 <param id="dc"/>
 <documentation/>
 </functionEntry>

@@ -1,3 +1,6 @@
 <drawables>
     <bitmap id="LauncherIcon" filename="launcher_icon.png" />
+    <bitmap id="Sleep" filename="night.png" /> 
+    <bitmap id="Steps" filename="steps.png" />
+    <bitmap id="Heart" filename="heart.svg" />
 </drawables>

@@ -6,6 +6,9 @@ using Toybox.Graphics as Gfx;
 
 module Rez {
     module Drawables {
+        (:initialized) var Sleep as Symbol;
+        (:initialized) var Steps as Symbol;
+        (:initialized) var Heart as Symbol;
         (:initialized) var LauncherIcon as Symbol;
     } // Drawables
 
@@ -17,19 +20,21 @@ module Rez {
 
     module Layouts {
         function WatchFace(dc as Graphics.Dc) as Array<WatchUi.Drawable> {
-            var rez_cmp_local_custom_drawable_10183245453695056551 = new Background();
+            var rez_cmp_local_custom_drawable_20918016226955049431 = new Background();
 
-            var rez_cmp_local_text_TimeLabel = new WatchUi.Text({:identifier=>"TimeLabel", :color=>Graphics.COLOR_BLUE, :locX=>(454 * 0.5), :locY=>((454 - dc.getFontHeight(Graphics.FONT_NUMBER_HOT)) * 0.5), :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_NUMBER_HOT});
+            var rez_cmp_local_text_TimeLabel = new WatchUi.Text({:identifier=>"TimeLabel", :color=>Graphics.COLOR_BLUE, :locX=>(454 * 0.5), :locY=>90, :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_NUMBER_HOT});
 
-            var rez_cmp_local_text_DateLabel = new WatchUi.Text({:identifier=>"DateLabel", :color=>Graphics.COLOR_BLUE, :locX=>(454 * 0.5), :locY=>WatchUi.LAYOUT_VALIGN_TOP, :text=>"Jan 12", :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
+            var rez_cmp_local_text_DateLabel = new WatchUi.Text({:identifier=>"DateLabel", :color=>Graphics.COLOR_LT_GRAY, :locX=>85, :locY=>90, :text=>"Jan 12", :justification=>Graphics.TEXT_JUSTIFY_LEFT, :font=>Graphics.FONT_XTINY});
 
-            var rez_cmp_local_text_StepsLabel = new WatchUi.Text({:identifier=>"StepsLabel", :color=>Graphics.COLOR_GREEN, :locX=>(454 * 0.5), :locY=>300, :text=>"12345", :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
+            var rez_cmp_local_text_HeartRateLabel = new WatchUi.Text({:identifier=>"HeartRateLabel", :color=>Graphics.COLOR_RED, :locX=>120, :locY=>230, :text=>"80", :justification=>Graphics.TEXT_JUSTIFY_LEFT, :font=>Graphics.FONT_TINY});
 
-            var rez_cmp_local_text_SleepLabel = new WatchUi.Text({:identifier=>"SleepLabel", :color=>Graphics.COLOR_PURPLE, :locX=>(454 * 0.5), :locY=>340, :text=>"80", :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
+            var rez_cmp_local_text_BatteryLabel = new WatchUi.Text({:identifier=>"BatteryLabel", :color=>Graphics.COLOR_GREEN, :locX=>120, :locY=>280, :text=>"80", :justification=>Graphics.TEXT_JUSTIFY_LEFT, :font=>Graphics.FONT_TINY});
 
-            var rez_cmp_local_text_HeartRateLabel = new WatchUi.Text({:identifier=>"HeartRateLabel", :color=>Graphics.COLOR_RED, :locX=>(454 * 0.5), :locY=>380, :text=>"80", :justification=>Graphics.TEXT_JUSTIFY_CENTER, :font=>Graphics.FONT_SMALL});
+            var rez_cmp_local_text_StepsLabel = new WatchUi.Text({:identifier=>"StepsLabel", :color=>Graphics.COLOR_BLUE, :locX=>120, :locY=>330, :text=>"1.5K", :justification=>Graphics.TEXT_JUSTIFY_LEFT, :font=>Graphics.FONT_TINY});
 
-            return [rez_cmp_local_custom_drawable_10183245453695056551, rez_cmp_local_text_TimeLabel, rez_cmp_local_text_DateLabel, rez_cmp_local_text_StepsLabel, rez_cmp_local_text_SleepLabel, rez_cmp_local_text_HeartRateLabel] as Array<WatchUi.Drawable>;
+            var rez_cmp_local_text_SleepLabel = new WatchUi.Text({:identifier=>"SleepLabel", :color=>Graphics.COLOR_PURPLE, :locX=>120, :locY=>380, :text=>"80", :justification=>Graphics.TEXT_JUSTIFY_LEFT, :font=>Graphics.FONT_TINY});
+
+            return [rez_cmp_local_custom_drawable_20918016226955049431, rez_cmp_local_text_TimeLabel, rez_cmp_local_text_DateLabel, rez_cmp_local_text_HeartRateLabel, rez_cmp_local_text_BatteryLabel, rez_cmp_local_text_StepsLabel, rez_cmp_local_text_SleepLabel] as Array<WatchUi.Drawable>;
         }
     } // Layouts
 
